@@ -1,6 +1,7 @@
 # simpleBirdOpt2D
 
 バードマン滑空機の最適軌道をエネルギ形式で記述した方程式を用いて導くOctave/Matlabプログラムです。
+解説：http://flightlogbook.cocolog-nifty.com/logbook/2025/01/post-4700ea.html
 
 ```
 SimpleEnergyOpt2D.m
