@@ -31,8 +31,6 @@ PHI.m：SQPで使用する評価関数。その積分は区分線形領域につ
 
 getK.m：kappaの積分を行う関数
 ```
-	
-背景と理論を記したSSSプレゼン資料，上記内容説明などについては後日順次追加します。
 
 Copyright (C) 2024− Koichi Takasaki
 
